@@ -1,0 +1,13 @@
+data/
+Rapbot2_all_models.ipynb
+credentials.py
+fakeyou/Latest_Tacotron2_and_HiFi_GAN.ipynb
+fakeyou/Latest_Tacotron2_and_HiFi_GAN_works.ipynb
+fakeyou/hifi-gan/
+fakeyou/TTS-TT2/
+fakeyou/hifigan_pretrained_model
+fakeyou/hifimodel_config_32k
+fakeyou/hifimodel_config_v1
+fakeyou/merged.dict.txt
+fakeyou/eminem_clone
+__pycache__/
