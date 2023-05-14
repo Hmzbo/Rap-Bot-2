@@ -37,3 +37,6 @@ This project harnesses the capabilities of a variety of interesting open-source 
 
 As well as, the OpenAI GPT 3.5 [API](https://platform.openai.com/docs/introduction).
  
+# To-do
+ - Automatically process of Draft lyrics and send them to Generate Voice tab.
+ - Add Tab for local training of Tacotron 2 models.
