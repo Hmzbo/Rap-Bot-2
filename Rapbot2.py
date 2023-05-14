@@ -179,9 +179,9 @@ with gr.Blocks(theme='finlaymacklon/smooth_slate') as blocks:
 
 parser = argparse.ArgumentParser(description="Rapbot args parser",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-parser.add_argument("--share", action="store_true", help="Set as True for shareable gradio app link.")
-parser.add_argument("--debug", action="store_true", help="Set as True to activate gradio debugging mode.")
-parser.add_argument("--show-err", action="store_true", help="Set as True to display Errors on the UI and browser console log.")
+parser.add_argument("--share", action="store_true", help="For shareable gradio app link.")
+parser.add_argument("--debug", action="store_true", help="To activate gradio debugging mode.")
+parser.add_argument("--show-err", action="store_true", help="To display Errors on the UI and browser console log.")
 args = parser.parse_args()
 config = vars(args)
 
